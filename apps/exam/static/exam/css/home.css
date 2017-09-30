@@ -1,0 +1,9 @@
+#table_spacing{
+  padding-top: 80px;
+}
+
+#add_travel{
+  display: block;
+  float: right;
+  margin: 80px;
+}

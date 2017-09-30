@@ -1,0 +1,16 @@
+input {
+  display: block;
+}
+
+label{
+  display: block;
+}
+
+.home_logout{
+  float: right;
+  margin-left: 20px;
+}
+
+p{
+  font-size: 26px;
+}
